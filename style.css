@@ -19,11 +19,11 @@
     letter-spacing: 1px;
 }
 .navbar{
-    padding-bottom: 50vh;
+    padding-bottom: 20vh;
 }
 body {
-    padding-top: 200px;
-    background-image: url(./images/background1.jpg);
+    background-image: url("./images/background1.jpg");
+    text-align: center;
   }
   
   .container {
@@ -35,7 +35,7 @@ body {
     background-position: center;
     background-size: cover;
     object-fit:contain;
-    z-index: 100;
+    /* z-index: 100; */
     padding-top: 5vh;
     border-radius: 25px;
     display: flex;
@@ -78,7 +78,7 @@ body {
   .title{
     margin-bottom: 20px;
     font-size: 20px;
-    padding-left: 30vh;
+    /* padding-left: 30vh; */
   }
   .signup{
       padding-top: 25px;
@@ -108,5 +108,25 @@ body {
       text-decoration: none;
       display: inline-block;
       font-weight: bold;
+      
+    }
+  .navbar ul{
+      text-align: right;
+      padding-top: 20px;
   }
-
+  .contact h1{
+    color: brown;
+    word-spacing: normal;
+}
+.contact{
+    word-spacing: 10px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 150px;
+    word-spacing: 30px;
+}
+/* .contact i{
+    word-spacing: 30px;
+} */
+  
+ 
