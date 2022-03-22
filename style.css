@@ -21,16 +21,9 @@ h1, h2, h3, h4, h5, h6{
     background-blend-mode: overlay;
 }
 
-.wave{
-    position: absolute;
-    width: 100%;
-    bottom: -140px;
-    color: #fff;
-    opacity: 1;
-}
 
 header{
-    position: fixed;
+
     top: 0;
     left: 0;
     width: 100%;
@@ -42,7 +35,8 @@ header .seal{
     font-size: 30px;
     font-weight: 600px;
     float: left;
-    color: wheat;
+    font-size: 60px;
+    color: rgb(120, 241, 211);
 }
 header .list{
     float: right;
@@ -64,8 +58,9 @@ header ul li a{
 
 .bg{
     max-width: 55%;
-    padding: 200px 80px 0;
+    padding: 130px 80px 0;
     color: #fff;
+    
 }
 
 .bg h1{
@@ -79,14 +74,17 @@ header ul li a{
 }
  
 .bg .link{
-    margin-top: 45pt;
+    margin-top: 35pt;
+    float: right;
 }
 
 .bg a{
     display: inline-block;
-    padding: 15px 45px;
+    padding: 8px 35px;
     text-decoration: none;
-    color: rgb(78, 41, 41);
+    color: white;
+    font-weight: bold;
     border-radius: 50px;
-    background-color: blueviolet;
+    background-color: transparent;
+    border: 2px solid white;
 }
