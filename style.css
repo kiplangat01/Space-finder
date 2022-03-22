@@ -57,8 +57,36 @@ header ul li a{
     text-decoration: none;
     font-size: 16px;
     color: aqua;
-    
     margin: 0 20px;
     font-weight: 300;
     letter-spacing: 1px;
+}
+
+.bg{
+    max-width: 55%;
+    padding: 200px 80px 0;
+    color: #fff;
+}
+
+.bg h1{
+    font-size: 50px;
+}
+
+.bg p{
+    font-size: 20px;
+    padding: 25px 0;
+    font-weight: 300;
+}
+ 
+.bg .link{
+    margin-top: 45pt;
+}
+
+.bg a{
+    display: inline-block;
+    padding: 15px 45px;
+    text-decoration: none;
+    color: rgb(78, 41, 41);
+    border-radius: 50px;
+    background-color: blueviolet;
 }
