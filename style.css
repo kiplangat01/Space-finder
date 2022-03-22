@@ -117,3 +117,14 @@ header ul li a{
 .fa-instagram{
     color: blueviolet;
 }
+
+.p{
+    position: absolute;
+    right: -200px;
+    top: 55px;
+    
+}
+
+.p a{
+    text-decoration: none;
+}
