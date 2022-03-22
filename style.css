@@ -11,3 +11,20 @@ body{
 h1, h2, h3, h4, h5, h6{
     font-family: 'Nova Round', cursive;
 }
+
+.nest{
+    background: rgba(0, 0, 0, 0.5) url("./images/landingbg.webp") no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    overflow: hidden;
+    background-blend-mode: overlay;
+}
+
+.wave{
+    position: absolute;
+    width: 100%;
+    bottom: -140px;
+    color: #fff;
+    opacity: 1;
+}
