@@ -1,0 +1,35 @@
+
+
+.back .seal{
+    font-size: 30px;
+    font-weight: 600px;
+    float: left;
+    font-size: 60px;
+    color: brown;
+}
+
+.back .list{
+    float: right;
+    margin-top: 7px;
+}
+
+.back ul li{
+    display: inline-block;
+    
+}
+
+.back ul li a{
+    text-decoration: none;
+    font-size: 16px;
+    color: brown;
+    font-weight: bold;
+    margin: 0 20px;
+    letter-spacing: 1px;
+}
+
+.intro{
+    background-image: url("./images/last2bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
