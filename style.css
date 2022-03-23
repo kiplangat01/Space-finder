@@ -1,4 +1,8 @@
-
+body{
+    background-color: #cac1c1;
+    margin: 0;
+    padding: 0;
+}
 
 .back .seal{
     font-size: 30px;
@@ -33,3 +37,31 @@
     background-size: cover;
     height: 500px;
 }
+
+img{
+    border-radius: 50px;
+    width: 80%;
+}
+
+.menus1 img{
+    height: 50%;
+    margin-top: 30px;
+}
+.border{
+    border: 2px solid rgb(8, 12, 8);
+    text-align: center;
+    margin: 5px;
+    padding: 20px;
+    margin-left: 90px;
+    width: 380px;
+    height: 600px;
+    background-color: rgb(241, 243, 233);
+    box-shadow: 5px 5px 25px 25px #888888;
+    margin-top: 100px;
+    opacity: 0.8;
+}
+
+
+
+
+
