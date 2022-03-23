@@ -26,3 +26,11 @@ function myFunction() {
 //         confirm.setCustomValidity('Passwords do not match');
 //       }
 //     }
+$(document).ready(function(){
+
+  
+
+    $("#hide").click(function(){
+      $("#show").slideToggle()
+    })
+})
