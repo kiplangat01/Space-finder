@@ -21,9 +21,10 @@
 .navbar{
     padding-bottom: 20vh;
 }
-body {
+.hero1 {
     background-image: url("./images1/background1.jpg");
     text-align: center;
+    height: 100vh;
   }
   
   .container {
@@ -127,6 +128,11 @@ body {
 }
 .signup a{
   color: brown;
+}
+.hero{
+  background-image: url(./images1/bedroom.jpg);
+  background-size: cover;
+  height: 120vh;
 }
   
  
