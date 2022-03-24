@@ -131,3 +131,22 @@ button:hover{
 .contact  .fa-phone-flip{
     font-size: 40px;
 }
+
+#email{
+    width: 400px;
+}
+
+#name{
+    width: 400px;
+}
+
+#message{
+    width: 400px;
+    margin-left: -18px;
+}
+
+form{
+    border: 1px solid black;
+    width: fit-content;
+    border-radius: 10px;
+}
